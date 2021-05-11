@@ -1,0 +1,30 @@
+body{
+  background-color: #02475e;
+}
+.heading{
+  color: white;
+  margin-left: 40%;
+  margin-top: 2%;
+  margin-right: 40%;
+  display: inline-block;
+  font-family: 'KoHo', sans-serif;
+}
+div{
+  text-align: center;
+  padding: 2%;
+  margin: 5% 10%;
+  background-color: white;
+
+}
+.lyrics{
+
+  padding: 2%;
+  width: 390px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+.search{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+}
